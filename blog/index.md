@@ -3,7 +3,7 @@ layout: splash
 title: Blog
 ---
 
-# DCGs Blog
+# Distributed Chaos News
 
 <ul>
   {% for post in site.posts %}
