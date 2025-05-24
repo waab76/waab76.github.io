@@ -1,8 +1,10 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
   - title: "Framework"
-    url: /framework
+    url: /framework/
   - title: "Groups"
     url: /dcgs/
-  - title: "Blog"
+  - title: "News"
     url: /blog/

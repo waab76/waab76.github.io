@@ -1,12 +1,15 @@
 ---
 layout: splash
 title: DC Groups
+permalink: /dcgs/
 ---
 
 # Local DC Groups
 
-- [DC407 (Orlando, FL)](https://dc407.com)
-- [DC503 (Portland, OR)](https://dc503.org)
-- [DC612 (Minneapolis, MN)](https://dc612.org)
+- [CNN (Atlanta, GA)](https://cnn.com)
+- [WFTV (Orlando, FL)](https://wftv.com)
+- [WGN (Chicago, IL)](https://wgntv.com)
+- [KTLK (Minneapolis, MN)](https://twincitiesnewstalk.iheart.com/)
+- [KIRO (Seattle, WA)](https://www.kiro7.com/)
 <!-- Add more groups here -->
 

@@ -2,28 +2,23 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#222"
+  overlay_color: "#111"
   alignment: center
   actions:
 
 excerpt: >
-  They told us to DISOBEY<br />
-  <small>Did they think we forgot?</small>
+  Distributed Chaos is a decentralized movement of community meetups.<br />
+  <small>We all share in the responsibility to be good to, and for, the communities we serve. We also share a responsibility to the global hacker community and the other communities we participate in.</small>
 feature_row:
-- title: "Framework"
-  excerpt: "Keeping it lightweight... B-Sides style"
+- title: "The Framework"
+  excerpt: "What does it take to be part of the club?"
   url: "/framework/"
   btn_label: "Learn More"
   btn_class: "btn--inverse"
 - title: "Distributed Chaos Groups"
-  excerpt: "One of us. One of us."
+  excerpt: "Find your hacker family."
   url: "/dcgs/"
-  btn_label: "Go There"
-  btn_class: "btn--inverse"
-- title: "Senseless Rambling"
-  excerpt: "Seriously not worth your time or effort."
-  url: "/blog/"
-  btn_label: "Go Anyway"
+  btn_label: "FAFO"
   btn_class: "btn--inverse"
 ---
 

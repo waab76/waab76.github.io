@@ -5,9 +5,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Distributed Chaos Groups"
+title                    : "Distributed Chaos"
 title_separator          : "-"
-subtitle                 : "They told us to DISOBEY" # site tagline that appears below site title in masthead
+subtitle                 : "Local hacker meetups" # site tagline that appears below site title in masthead
 name                     : "Distributed Chaos"
 description              : "A lightweight framework for local hacker meetups"
 url                      : "https://www.distributedchaos.org"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Distributed Chaos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -129,7 +129,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Xitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
