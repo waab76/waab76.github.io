@@ -130,7 +130,7 @@ author:
 footer:
   links:
     - label: "Bsky"
-      icon: "fab fa-fw fa-bluesky-square"
+      icon: "fab fa-fw fa-square-bluesky"
       url: "https://bsky.app/profile/distributedchaos.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
