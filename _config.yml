@@ -129,9 +129,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Xitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Bsky"
+      icon: "fab fa-fw fa-bluesky-square"
+      url: "https://bsky.app/profile/distributedchaos.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
