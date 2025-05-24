@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: DC Groups
-permalink: /dcgs/
+title: Groups
+permalink: /groups/
 ---
 
-# Local DC Groups
+# Local Groups
 
 - [CNN (Atlanta, GA)](https://cnn.com)
 - [WFTV (Orlando, FL)](https://wftv.com)
