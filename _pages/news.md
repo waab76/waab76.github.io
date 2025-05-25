@@ -1,6 +1,7 @@
 ---
 layout: splash 
 title: Blog
+permalink: /news/
 ---
 
 # Distributed Chaos News
