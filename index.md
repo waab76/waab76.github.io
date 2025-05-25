@@ -7,6 +7,7 @@ header:
   actions:
 
 excerpt: >
+  ![image-right](/assets/logo_full.png){: .align-right}
   Distributed Chaos is a lightweight framework for, and network of of, community hacker meetups.<br />
 feature_row:
 - title: "The Framework"
