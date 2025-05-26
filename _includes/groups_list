@@ -1,3 +1,9 @@
+{% if include.id %}
+  {% assign groups_list = page[include.id] %}
+{% else %}
+  {% assign groups_list = page.groups_list %}
+{% endif %}
+
 <div id="groups-list">
     {% for g in groups_list %}
       <div class="group-item">
