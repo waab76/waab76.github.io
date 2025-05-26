@@ -12,6 +12,7 @@ groups_list:
 - name: "DC407"
   location: "Orlando, FL"
   url: "https://dc407.com"
+  blurb: "The happiest hacks on earth."
 - name: "DC423"
   location: "Chattanooga, TN"
   url: "https://dc423.org"
@@ -66,21 +67,6 @@ groups_list:
 <input type="text" id="group-search" placeholder="Search for groups..." onkeyup="filterGroups()">
 
 {% include groups_list %}
-
-<div id="groups-list">
-  <div class="group-item">
-    <h3><a href="https://defcon202.org/">DC202 - Washington DC</a></h3>
-  </div>
-  <div class="group-item">
-    <h3><a href="https://dc423.org">DC423 - Chattanooga, TN</a></h3>
-  </div>
-  <div class="group-item">
-    <h3><a href="https://dc407.com">DC407 - Orlando, FL</a></h3>
-  </div>
-  <div class="group-item">
-    <h3><a href="https://dc615.org">NashSec - Nashville, TN</a></h3>
-  </div>
-</div>
 
 <script>
 function filterGroups() {
