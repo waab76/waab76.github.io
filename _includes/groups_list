@@ -19,7 +19,7 @@
           </h3>
         {% endif %}
         {% if g.blurb %}
-          < br />< small >{{ g.blurb }}</small>
+          <br /><small >{{ g.blurb }}</small>
         {% endif %}
       </div>
     {% endfor %}
