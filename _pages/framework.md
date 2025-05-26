@@ -2,9 +2,10 @@
 layout: single
 title: Framework
 permalink: /framework/
+description: "The core framework and guidelines for establishing and running a Distributed Chaos hacker meetup"
+keywords: "framework, guidelines, hacker meetup, rules, community standards, meetup organization"
+search: true
 ---
-
-# No Central Organization, Only Framework
 
 Our goal is to provide a few simple organizing principles rather than to dictate how groups should operate. If your group agrees with our core principles, you're part of our hacker family. Beyond the core principles, we trust that you know best what will or won't work for your local hacker community.
 

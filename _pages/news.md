@@ -1,10 +1,11 @@
 ---
-layout: single 
-title: Blog
+layout: single
+title: News
 permalink: /news/
+description: "Latest updates, announcements, and news from the Distributed Chaos hacker meetup community"
+keywords: "news, updates, announcements, community news, hacker meetups, events"
+search: true
 ---
-
-# Distributed Chaos News
 
 <ul>
   {% for post in site.posts %}
